@@ -10,58 +10,78 @@ Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Des
 
 ---
 
-## 2. Hosting und Content Delivery Networks (CDN)
+## 2. Verantwortlicher
 
-### GitHub Pages
-Wir hosten unsere Website bei GitHub Pages. Anbieter ist die GitHub Inc., 88 Colin P. Kelly Jr. St, San Francisco, CA 94107, USA (nachfolgend „GitHub“).
+Verantwortlich für die Datenverarbeitung auf dieser Website ist:
 
-Wenn Sie unsere Website besuchen, erfasst GitHub Log-Files, inklusive der IP-Adressen der Besucher, um die Sicherheit und Integrität des Dienstes zu gewährleisten. Dies ist ein berechtigtes Interesse im Sinne des Art. 6 Abs. 1 lit. f DSGVO.
+**Stephan Grundner**
+[Deine Straße / Hausnummer]
+6391 Fieberbrunn
+Österreich
 
-GitHub ist Empfänger Ihrer personenbezogenen Daten und als Auftragsverarbeiter für uns tätig. Die Datenübertragung in die USA erfolgt auf Grundlage der Standardvertragsklauseln der EU-Kommission. Details finden Sie hier: [GitHub Data Protection Agreement](https://github.com/customer-terms/github-data-protection-agreement).
-
----
-
-## 3. Allgemeine Hinweise und Pflichtinformationen
-
-### Verantwortlicher
-Der Verantwortliche für die Datenverarbeitung auf dieser Website ist:
-
-Stephan Grundner
-[Straße / Hausnummer]
-[PLZ / Ort, Österreich]
-E-Mail: [Deine E-Mail-Adresse]
-
-### Widerruf Ihrer Einwilligung zur Datenverarbeitung
-Viele Datenverarbeitungsvorgänge sind nur mit Ihrer ausdrücklichen Einwilligung möglich. Sie können eine bereits erteilte Einwilligung jederzeit widerrufen. Die Rechtmäßigkeit der bis zum Widerruf erfolgten Datenverarbeitung bleibt vom Widerruf unberührt.
-
-### Beschwerderecht bei der zuständigen Aufsichtsbehörde
-Im Falle von Verstößen gegen die DSGVO steht den Betroffenen ein Beschwerderecht bei einer Aufsichtsbehörde zu. In Österreich ist dies die Datenschutzbehörde (DSB).
-
-### Recht auf Auskunft, Löschung und Korrektur
-Sie haben im Rahmen der geltenden gesetzlichen Bestimmungen jederzeit das Recht auf unentgeltliche Auskunft über Ihre gespeicherten personenbezogenen Daten, deren Herkunft und Empfänger und den Zweck der Datenverarbeitung und ggf. ein Recht auf Berichtigung oder Löschung dieser Daten.
+**E-Mail:** [Deine E-Mail-Adresse]
 
 ---
 
-## 4. Analyse-Tools und Werbung
+## 3. Hosting und Server-Log-Files
+
+Der Provider der Seiten erhebt und speichert automatisch Informationen in sogenannten Server-Log-Files, die Ihr Browser automatisch an uns übermittelt. Dies sind:
+* Browsertyp und Browserversion
+* Verwendetes Betriebssystem
+* Referrer URL
+* Hostname des zugreifenden Rechners
+* Uhrzeit der Serveranfrage
+* IP-Adresse
+
+Diese Daten sind für den technischen Betrieb und die Sicherheit der Website erforderlich (Rechtsgrundlage: Art. 6 Abs. 1 lit. f DSGVO).
+
+---
+
+## 4. Cookie-Consent-Banner
+
+Wir verwenden ein Cookie-Consent-Banner, um Ihre Einwilligung zur Speicherung bestimmter Cookies auf Ihrem Endgerät einzuholen und diese datenschutzkonform zu dokumentieren.
+
+Beim Betreten unserer Website wird ein Cookie des Consent-Tools in Ihrem Browser gespeichert, um die von Ihnen erteilten Einwilligungen bzw. deren Widerruf zuzuordnen. Die Rechtsgrundlage hierfür ist Art. 6 Abs. 1 lit. c DSGVO (Erfüllung einer rechtlichen Verpflichtung).
+
+---
+
+## 5. Analyse-Tools und Werbung
+
+Wir nutzen Dienste der Google Ireland Limited („Google“), Gordon House, Barrow Street, Dublin 4, Irland.
+
+Die Nutzung erfolgt nur, sofern Sie über das Consent-Banner Ihre **ausdrückliche Einwilligung** gegeben haben (Rechtsgrundlage: Art. 6 Abs. 1 lit. a DSGVO sowie § 165 Abs. 3 TKG 2021).
 
 ### Google Analytics
-Diese Website nutzt Funktionen des Webanalysedienstes Google Analytics. Anbieter ist die Google Ireland Limited („Google“), Gordon House, Barrow Street, Dublin 4, Irland.
+Diese Website nutzt Google Analytics zur statistischen Auswertung der Websitenutzung. Hierbei werden Cookies gesetzt, die eine Analyse Ihres Nutzerverhaltens ermöglichen. Wir haben die **IP-Anonymisierung** aktiviert, sodass Ihre IP-Adresse von Google innerhalb von Mitgliedstaaten der EU oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum vor der Übermittlung in die USA gekürzt wird.
 
-Google Analytics verwendet sog. „Cookies“. Das sind Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert.
+### Google Ads (Conversion Tracking & Remarketing)
+Wir nutzen Google Ads, um Ihnen auf Google-Seiten und im Google-Werbenetzwerk zielgerichtete Anzeigen zu schalten. Mittels Conversion Tracking können wir messen, wie erfolgreich unsere Anzeigen sind. Wenn Sie über eine Google-Anzeige auf unsere Website gelangen, wird ein Conversion-Cookie gesetzt.
 
-**Einwilligung (Art. 6 Abs. 1 lit. a DSGVO):**
-Die Nutzung von Google Analytics erfolgt ausschließlich auf Grundlage Ihrer ausdrücklichen Einwilligung. Sie können diese Einwilligung jederzeit über die Cookie-Einstellungen (sofern vorhanden) oder durch das Browser-Plugin zur Deaktivierung von Google Analytics widerrufen.
-
-**IP Anonymisierung:**
-Wir haben auf dieser Website die Funktion IP-Anonymisierung aktiviert. Dadurch wird Ihre IP-Adresse von Google innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum vor der Übermittlung in die USA gekürzt.
-
-**Auftragsverarbeitung:**
-Wir haben mit Google einen Vertrag zur Auftragsverarbeitung abgeschlossen und setzen die strengen Vorgaben der österreichischen und europäischen Datenschutzbehörden bei der Nutzung von Google Analytics vollständig um.
+**Widerruf der Einwilligung:**
+Sie können Ihre Einwilligung jederzeit mit Wirkung für die Zukunft über die Cookie-Einstellungen auf unserer Website widerrufen.
 
 ---
 
-## 5. Kontaktformular
+## 6. Datenübermittlung in Drittstaaten (USA)
 
-Wenn Sie uns per Kontaktformular Anfragen zukommen lassen, werden Ihre Angaben aus dem Anfrageformular inklusive der von Ihnen dort angegebenen Kontaktdaten zwecks Bearbeitung der Anfrage und für den Fall von Anschlussfragen bei uns gespeichert. Diese Daten geben wir nicht ohne Ihre Einwilligung weiter.
+Google verarbeitet Daten unter anderem in den USA. Wir weisen darauf hin, dass Google am **EU-U.S. Data Privacy Framework** teilnimmt, was ein angemessenes Datenschutzniveau für die Übermittlung von Daten aus der EU an zertifizierte Unternehmen in den USA gewährleistet.
 
-Die Verarbeitung dieser Daten erfolgt auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO, sofern Ihre Anfrage mit der Erfüllung eines Vertrags zusammenhängt oder zur Durchführung vorvertraglicher Maßnahmen erforderlich ist. In allen übrigen Fällen beruht die Verarbeitung auf unserem berechtigten Interesse an der effektiven Bearbeitung der an uns gerichteten Anfragen (Art. 6 Abs. 1 lit. f DSGVO) oder auf Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO) falls diese abgefragt wurde.
+---
+
+## 7. Ihre Rechte als betroffene Person
+
+Sie haben im Rahmen der geltenden gesetzlichen Bestimmungen (DSGVO) jederzeit das Recht auf:
+* **Auskunft** über Ihre gespeicherten personenbezogenen Daten (Art. 15 DSGVO)
+* **Berichtigung** unrichtiger Daten (Art. 16 DSGVO)
+* **Löschung** Ihrer Daten (Art. 17 DSGVO)
+* **Einschränkung der Verarbeitung** (Art. 18 DSGVO)
+* **Datenübertragbarkeit** (Art. 20 DSGVO)
+* **Widerruf** erteilter Einwilligungen (Art. 7 Abs. 3 DSGVO)
+
+**Beschwerderecht bei der Aufsichtsbehörde:**
+Wenn Sie glauben, dass die Verarbeitung Ihrer Daten gegen das Datenschutzrecht verstößt, haben Sie das Recht, sich bei der zuständigen Aufsichtsbehörde zu beschweren. In Österreich ist dies die:
+
+**Österreichische Datenschutzbehörde (DSB)**
+Barichgasse 40-42
+1030 Wien
+Web: https://www.dsb.gv.at
